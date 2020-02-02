@@ -10,3 +10,6 @@
 /.nb-gradle/
 build/
 /Inheritance/nbproject/private/
+/MethodOverLoading/nbproject/private/
+/MethodOverriding/nbproject/private/
+/Encapsulation/nbproject/private/
